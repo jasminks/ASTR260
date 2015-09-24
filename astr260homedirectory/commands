@@ -1,0 +1,24 @@
+
+Linux/UNIX commands
+a) man: access to help guides for any commands
+b) ls: view file folders, list of system files
+c) date: shows date and time
+d) pwd: prints working directory, name of current directory
+e) cd: change directory name
+f) whoami: shows current user name
+g) cat: execute a file
+h) wc: shows lines, word count, number of bytes
+i) awk: gawk programming language
+j) grep: search folder, get more information 
+
+Getting help
+%man man: will show the the manual guide for command man
+%man -k: well give you list of commanads similar to what you are searching for 
+
+Access your file:
+%less <your_file>: will print the contents of your file
+%cp <your_file><new_file>: copy your file with a new name
+%mv <your_file><new_file>: moves your file with a new name
+Difference- copy creates two files, move simply moves file 
+
+

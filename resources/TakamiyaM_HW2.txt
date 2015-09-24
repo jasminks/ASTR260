@@ -1,0 +1,16 @@
+Problem 1
+Exercise 5.2
+a) Python program in Dropbox named: TakamiyaM_HW2_p1.py 
+b) Fractional error is 0.0001 or 0.01%
+c) Python program in part (a) contains slices of 10, 100, and 1000.
+   The Simpson rule converges to the analytical result with 1000 slices but the Trapezoid rule does not converge.
+
+Problem 2
+Exercies 5.3
+a) Using both the Simpson and Trapezoid rules with 30 slices, I obtain the following values:
+using the  Simpson  rule is 0.886207336227
+using the Trapezoid rule is 0.88620673428 
+I would generally use the Simpson rule for highly variable functions but the Trapezoid rule when the function varies slowly.
+They are differ at the seventh significant digit.
+
+

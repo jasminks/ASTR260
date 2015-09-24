@@ -1,0 +1,4 @@
+for i in range (10):
+   y=randrange(11)
+
+print y

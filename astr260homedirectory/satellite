@@ -1,0 +1,10 @@
+#Satellite program
+
+import math
+
+t=float(input("Input time of orbit:"))
+G=6.67*10**-11
+M=5.97*10**24
+h=(G*M(t**2))/(39.478))**(0.3333))-637100
+x=h/1000
+print"The altitude of the satellite will be ",h," meters."
