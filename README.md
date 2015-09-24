@@ -14,3 +14,6 @@ I never bothered one bit to really organize this code, which is a seriously grea
 2. Make a homework directory! Again, wih all proper dependencies.
 3. Make an exam directory.
 4. Organize remaining resources and such.
+
+>This way, all dependencies on codes (eg: codes that depend on datasets, codes that import other codes) 
+are in the proper directories.
