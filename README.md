@@ -11,8 +11,6 @@ I never bothered one bit to really organize this code, which is a seriously grea
       * resource code 
       * example codes
       * codes I created
-
-
 2. Make a homework directory! Again, wih all proper dependencies.
 3. Make an exam directory.
 4. Organize remaining resources and such.
